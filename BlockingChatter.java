@@ -3,11 +3,7 @@ package edu.nyu.cs9053.homework11;
 import java.io.*;
 import java.nio.charset.Charset;
 
-/**
- * User: blangel
- * Date: 11/23/14
- * Time: 4:31 PM
- */
+
 public class BlockingChatter implements Chatter {
     
     private InputStream chatServerInput;

@@ -17,11 +17,6 @@ import java.util.Map;
 import java.util.Set;
 
 
-/**
- * User: blangel
- * Date: 11/23/14
- * Time: 4:32 PM
- */
 public class NonBlockingChatter implements Chatter {
     
     private static final int READ_BUFFER_SIZE = 1024;

@@ -10,11 +10,7 @@ import java.nio.channels.ReadableByteChannel;
 import java.nio.channels.SelectableChannel;
 import java.nio.channels.WritableByteChannel;
 
-/**
- * User: blangel
- * Date: 11/23/14
- * Time: 4:52 PM
- */
+
 public class InputSelectableChannel {
 
     private static class ChannelThread extends Thread {

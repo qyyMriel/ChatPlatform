@@ -11,11 +11,6 @@ import java.io.InputStreamReader;
 import java.io.FileInputStream;
 
 
-/**
- * User: blangel
- * Date: 11/23/14
- * Time: 4:31 PM
- */
 public class FileExtractor {
     
     private static final String FILEPATH = "src/main/resources/Moby Dick.txt";

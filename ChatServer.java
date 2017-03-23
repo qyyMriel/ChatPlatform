@@ -14,11 +14,6 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Set;
 
-/**
- * User: blangel
- * Date: 11/23/14
- * Time: 4:43 PM
- */
 public class ChatServer implements Runnable {
 
     public static final String SERVER_HOST = "localhost";

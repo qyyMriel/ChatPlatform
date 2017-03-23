@@ -6,11 +6,7 @@ import java.net.Socket;
 import java.net.SocketAddress;
 import java.nio.channels.SocketChannel;
 
-/**
- * User: blangel
- * Date: 11/23/14
- * Time: 4:31 PM
- */
+
 public class Chat {
 
     private static final String USAGE = "Usage: x where x is either 'blocking' or 'nonblocking'";
