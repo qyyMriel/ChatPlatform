@@ -1,5 +1,5 @@
 
-#Visualizing Reddit Monitor
+# Visualizing Reddit Monitor
 
 <b>Author</b>: Yi Qin
 
@@ -8,7 +8,7 @@ If you want to run the code locally, you should install several package:
 
 
 
-###How to run code locally
+### How to run code locally
 
 
   
